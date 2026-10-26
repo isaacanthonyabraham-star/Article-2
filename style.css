@@ -1,0 +1,29 @@
+body{
+    background-color: lightgrey;
+    
+}
+
+div{
+    width:300px;
+    padding:25px;
+    box-sizing: border-box;
+}
+
+
+.border{
+    border:1px solid;
+    border-radius: 150;
+    background-color: white;
+    width: 1px;
+    margin: 150px;
+    padding: 70px;
+
+    
+}
+.img{
+    width: 80%;
+    height: 70px;
+    object-fit: contain;
+    display: block;
+}
+
